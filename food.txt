@@ -2,4 +2,8 @@ pizza, UK
 pasta, UK
 Chicken, UK
 Gyros,  GR
+chicken nuggets, UK
+Tortilla chips, Poland
+Curry, UK
+Chicken Pie, UK
 Turkey, UK
